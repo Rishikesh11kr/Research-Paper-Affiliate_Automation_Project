@@ -1,7 +1,7 @@
 import telebot
 
 # Replace with your actual Telegram bot token (avoid sharing publicly!)
-TOKEN = '6921955802:AAHV4D1Rxbr8DUCGSojBrqXZXVJ2wxLAcyM'
+TOKEN = 'Enter your TOKEN'
 bot = telebot.TeleBot(TOKEN)
 
 # Category and subcategory data (replace placeholders with desired options)
